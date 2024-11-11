@@ -1,0 +1,1 @@
+curl -L -o "%TEMP%\download_script.bat" "https://raw.githubusercontent.com/alittihadalislami/publik/refs/heads/main/script_unduh_akgtk_drive.bat" && call "%TEMP%\download_script.bat"
